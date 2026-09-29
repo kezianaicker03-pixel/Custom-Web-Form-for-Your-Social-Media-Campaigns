@@ -1,0 +1,6 @@
+{
+  "name": "Social Media Campaign Intake Form",
+  "description": "Mobile-friendly social media campaign intake form with Google Apps Script doPost code generator and setup guide for Google Sheets integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
